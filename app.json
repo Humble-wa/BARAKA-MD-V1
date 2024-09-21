@@ -80,7 +80,7 @@
     "NUMERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+    "desc": "2348024012531 , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
     "value": "255762190568,255679513639,254710772666"
   },
