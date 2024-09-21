@@ -50,7 +50,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
@@ -82,7 +82,7 @@
     
     "desc": "2348024012531 , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255762190568,255679513639,254710772666"
+    "value": "2348024012531,2349063821326"
   },
     "WARN_COUNT":
   {
